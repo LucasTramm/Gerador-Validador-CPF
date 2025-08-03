@@ -1,2 +1,2 @@
 # Gerador-Validador-CPF
-Código simples em python de validação de pdf e gerador de pdf
+Código simples em python de validação de cpf e gerador de cpf
